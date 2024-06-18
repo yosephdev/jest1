@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/yosephdev/jest1#readme",
   "devDependencies": {
-    "jest": "^26.6.3"
+    "jest": "^29.7.0"
   }
 }
